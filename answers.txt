@@ -1,0 +1,9 @@
+Q1:localhost:8080 show Node.js WebSockets Lab, black background and a bunny. click on bunny the color will change to red and drag can move bunny, when open another tab you can see how bunny moved by other tab(can also click/drag).
+
+Q2:TypeScript is like an upgraded version of JavaScript with added features like data types and object-oriented programming. It needs to be converted to JavaScript before use and is widely used in popular frameworks.
+
+Q3:Web application bundlers organize and optimize code, handle dependencies, and manage assets. ParcelJS is a popular bundler that's easy to use and automatically handles asset management and code optimization while supporting hot module replacement.
+
+Q4:WebSocket has 4 states: CONNECTING (0), OPEN (1), CLOSING (2), and CLOSED (3). CONNECTING is when the connection is being established, OPEN means it's ready to send/receive messages, CLOSING is when it's in the process of closing, and CLOSED is when the connection is closed and cannot be reopened.
+
+Q5:https://github.com/JiaYiChe/nodejs-ws-lab
